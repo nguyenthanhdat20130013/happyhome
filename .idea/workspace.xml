@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3077b57e-64f0-4795-a37a-57ce42010476" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/img/blog/1.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GQhaJp74A8YbQzeRt0HFWYuupJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/LapTrinhWeb/happyhome",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\LapTrinhWeb\happyhome\img\product" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\LapTrinhWeb\happyhome\img\home" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3077b57e-64f0-4795-a37a-57ce42010476" name="Changes" comment="" />
+      <created>1666326781064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666326781064</updated>
+      <workItem from="1666326782788" duration="711000" />
+      <workItem from="1666362562557" duration="5002000" />
+      <workItem from="1666405078244" duration="75000" />
+      <workItem from="1666405169685" duration="287000" />
+      <workItem from="1666405759909" duration="92000" />
+      <workItem from="1666405870149" duration="4025000" />
+      <workItem from="1666428401531" duration="3567000" />
+      <workItem from="1666486799937" duration="5847000" />
+      <workItem from="1666527445447" duration="51000" />
+      <workItem from="1666622043867" duration="2817000" />
+      <workItem from="1666713513731" duration="600000" />
+      <workItem from="1666761255226" duration="2944000" />
+      <workItem from="1666787241336" duration="10909000" />
+      <workItem from="1666854626394" duration="11857000" />
+      <workItem from="1666927609078" duration="3522000" />
+      <workItem from="1667739549831" duration="1894000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
