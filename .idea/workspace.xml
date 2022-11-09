@@ -4,11 +4,6 @@
     <list default="true" id="3077b57e-64f0-4795-a37a-57ce42010476" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-acount.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-acount.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-register.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-reset-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-reset-password.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-wishlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-wishlist.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +73,9 @@
       <workItem from="1666927609078" duration="3522000" />
       <workItem from="1667739549831" duration="7160000" />
       <workItem from="1667786047183" duration="5721000" />
-      <workItem from="1667826698468" duration="1357000" />
+      <workItem from="1667826698468" duration="2114000" />
+      <workItem from="1667919196893" duration="4230000" />
+      <workItem from="1667970664002" duration="318000" />
     </task>
     <servers />
   </component>
