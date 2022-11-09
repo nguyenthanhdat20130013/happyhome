@@ -2,8 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3077b57e-64f0-4795-a37a-57ce42010476" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/img/blog/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/13(2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/other/4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-list-sidebar-left.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-list-sidebar-left.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/collection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/delivery-policy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faqs.html" beforeDir="false" afterPath="$PROJECT_DIR$/faqs.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/owl-carousel/assets/owl.video.play.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/owl-carousel/assets/owl.video.play.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/living-room.html" beforeDir="false" afterPath="$PROJECT_DIR$/living-room.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-grid-sidebar-left.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-grid-sidebar-left.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recruit.html" beforeDir="false" afterPath="$PROJECT_DIR$/recruit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-acount.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-acount.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-register.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-reset-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-reset-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-wishlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-wishlist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warranty-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/warranty-policy.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
