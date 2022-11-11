@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3077b57e-64f0-4795-a37a-57ce42010476" name="Changes" comment="" />
+    <list default="true" id="3077b57e-64f0-4795-a37a-57ce42010476" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/img/blog/10thumb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-list-sidebar-left.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-list-sidebar-left.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/collection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/delivery-policy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faqs.html" beforeDir="false" afterPath="$PROJECT_DIR$/faqs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/living-room.html" beforeDir="false" afterPath="$PROJECT_DIR$/living-room.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-grid-sidebar-left.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-grid-sidebar-left.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recruit.html" beforeDir="false" afterPath="$PROJECT_DIR$/recruit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-acount.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-acount.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-login.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-register.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-reset-password.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-reset-password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-wishlist.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-wishlist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warranty-policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/warranty-policy.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,23 +43,26 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2GQhaJp74A8YbQzeRt0HFWYuupJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Admin",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Admin&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\LapTrinhWeb\happyhome\img\product" />
@@ -73,6 +99,11 @@
       <workItem from="1667826698468" duration="2114000" />
       <workItem from="1667919196893" duration="4230000" />
       <workItem from="1667970664002" duration="318000" />
+      <workItem from="1668001057734" duration="315000" />
+      <workItem from="1668002287475" duration="1534000" />
+      <workItem from="1668064904449" duration="20355000" />
+      <workItem from="1668148689486" duration="16368000" />
+      <workItem from="1668174301340" duration="313000" />
     </task>
     <servers />
   </component>
