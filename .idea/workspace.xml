@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3077b57e-64f0-4795-a37a-57ce42010476" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/img/blog/10thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/privacy-policy.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bed-room.html" beforeDir="false" afterPath="$PROJECT_DIR$/bed-room.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog-list-sidebar-left.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-list-sidebar-left.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/collection.html" afterDir="false" />
